@@ -1,0 +1,12 @@
+generated_shp/
+mz_adm/
+mz_shp/
+generated_shp/
+mz-health-facilities/
+roads/
+world_shp/
+cache/
+*.xlsx
+*.pdf
+*.ipynb
+!visualize_data.ipynb
