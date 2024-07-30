@@ -20,3 +20,7 @@
 
     Geofabrik GmbH and OpenStreetMap Contributors
     https://download.geofabrik.de/africa/mozambique-latest-free.shp.zip
+
+- Natural Earth
+    Natural Earth was built through a collaboration of many [volunteers](http://www.naturalearthdata.com/about/contributors/) and is supported by [NACIS](http://www.nacis.org/) (North American Cartographic Information Society).
+    https://www.naturalearthdata.com/downloads/ Small scale data, 1:110m
