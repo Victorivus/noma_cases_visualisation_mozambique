@@ -24,3 +24,9 @@
 - Natural Earth
     Natural Earth was built through a collaboration of many [volunteers](http://www.naturalearthdata.com/about/contributors/) and is supported by [NACIS](http://www.nacis.org/) (North American Cartographic Information Society).
     https://www.naturalearthdata.com/downloads/ Small scale data, 1:110m
+
+## Final result
+
+This is the final generated map, it will be edited in Inkscape to remove frontiers problems etc.
+
+![Final_map](final_moz_pre_edit.png)
